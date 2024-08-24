@@ -1,5 +1,5 @@
 import tensorflow as tf
-
+from tensorflow.keras import layers, models, optimizers
 
 # Accessing Keras components through TensorFlow
 layers = tf.keras.layers
